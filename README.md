@@ -1,1 +1,1 @@
-# SecureBackupSoftwareSystem
+Secure Backup System is a project consist of Client , Server and Remote Access Software, developed to improve security of users. It's extremely useful to prevent data loss in case of cyberattack or hardware malfunction. SBS can backup computer files and send them to a remote server or store them in an external ddevice.
